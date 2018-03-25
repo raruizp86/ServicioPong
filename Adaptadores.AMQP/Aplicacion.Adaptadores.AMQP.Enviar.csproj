@@ -98,7 +98,6 @@
     <Compile Include="Globales.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Domini.Logs\Dominio.Logs.csproj">
       <Project>{2117AC13-CB5B-4D3D-886F-C117D01D0B13}</Project>

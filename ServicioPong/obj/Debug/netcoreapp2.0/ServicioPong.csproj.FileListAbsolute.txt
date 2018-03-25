@@ -1,8 +1,0 @@
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\bin\Debug\netcoreapp2.0\ServicioPong.deps.json
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\bin\Debug\netcoreapp2.0\ServicioPong.runtimeconfig.json
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\bin\Debug\netcoreapp2.0\ServicioPong.runtimeconfig.dev.json
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\bin\Debug\netcoreapp2.0\ServicioPong.dll
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\obj\Debug\netcoreapp2.0\ServicioPong.csprojResolveAssemblyReference.cache
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\obj\Debug\netcoreapp2.0\ServicioPong.csproj.CoreCompileInputs.cache
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\obj\Debug\netcoreapp2.0\ServicioPong.AssemblyInfoInputs.cache
-C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\ServicioPong\obj\Debug\netcoreapp2.0\ServicioPong.AssemblyInfo.cs

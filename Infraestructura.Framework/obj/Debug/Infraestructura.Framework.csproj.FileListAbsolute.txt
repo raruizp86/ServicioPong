@@ -23,3 +23,27 @@ C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Infraest
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.dll
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.pdb
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\res\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Infraestructura.Framework\obj\Debug\Infraestructura.Framework.pdb

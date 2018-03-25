@@ -63,3 +63,68 @@ C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.pdb
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.Servicios\bin\Debug\Newtonsoft.Json.dll
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.pdb
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.pdb
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\res\Dominio.Servicios\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\res\Dominio.Servicios\obj\Debug\Dominio.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\res\Dominio.Servicios\obj\Debug\Dominio.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\res\Dominio.Servicios\obj\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\res\Dominio.Servicios\obj\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Servicios\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Adaptadores.AMQP.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Servicios\obj\Debug\Dominio.Servicios.pdb

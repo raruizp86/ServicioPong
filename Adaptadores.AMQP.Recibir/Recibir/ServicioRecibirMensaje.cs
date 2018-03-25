@@ -6,8 +6,8 @@ using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using RabbitMQ.Client.MessagePatterns;
 using Adaptadores.AMQP.Enviar.Mensajes;
-using Dominio.Entidades.Mensajes;
 using ServicioPong;
+using Dominio.Entidades.Mensajes;
 
 namespace Adaptadores.AMQP.Recibir.Recibir
 {

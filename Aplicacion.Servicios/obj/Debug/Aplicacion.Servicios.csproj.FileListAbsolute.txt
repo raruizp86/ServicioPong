@@ -1,0 +1,136 @@
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Aplicacion.Servicios.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Aplicacion.Servicios.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Json.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Owin.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Helpers.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Mvc.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Razor.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Json.pdb
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Helpers.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Mvc.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Razor.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\globalbit\source\repos\ServicioPong\Aplicacion.Servicios\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Aplicacion.Servicios.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Aplicacion.Servicios.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Json.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Owin.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Helpers.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Mvc.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Razor.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Json.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Helpers.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Mvc.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Razor.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Aplicacion.Servicios.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Aplicacion.Servicios.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Servicios.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Json.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Owin.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Helpers.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Mvc.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Razor.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Dominio.Servicios.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Json.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Helpers.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Mvc.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.Razor.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.Recibir.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Adaptadores.AMQP.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Aplicacion.Servicios\obj\Debug\Aplicacion.Servicios.pdb

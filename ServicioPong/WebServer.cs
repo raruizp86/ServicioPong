@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Aplicacion.Servicios;
+using Aplicacion.Servicios.Request;
+using Aplicacion.Servicios.Response;
+using SimpleInjector;
+using System;
 using System.Net;
 using System.Net.Sockets;
-using System.Text;
 
 namespace ServicioPong
 {
@@ -12,11 +14,17 @@ namespace ServicioPong
         private int port;
         private string home;
         private static int MAX_SIZE = 1000;
+        private readonly IServicioRequest _servicioRequest;
+        public WebServer(IServicioRequest servicioRequest)
+        {
+            _servicioRequest = servicioRequest;
+        }
         public WebServer(int port, string path)
         {
             this.port = port;
             this.home = path;
             listener = new TcpListener(IPAddress.Any, port);
+            
         }
         public void Start()
         {
@@ -31,22 +39,31 @@ namespace ServicioPong
         }
         public void Listen()
         {
-            Request resques = new Request();
+            
             try
             {
                 while (true)
                 {
                     Byte[] result = new Byte[MAX_SIZE];
                     string requestData;
-
                     TcpClient client = listener.AcceptTcpClient();
                     NetworkStream stream = client.GetStream();
                     int size = stream.Read(result, 0, result.Length);
                     requestData = System.Text.Encoding.ASCII.GetString(result, 0, size);
-                    //Console.WriteLine("Received: {0}", requestData);
+                    Injection injection = new Injection();
+                    var container = injection.Dependencias();
+                    
 
-                    Request request = resques.GetRequest(requestData);
+                   
+                    
+                    var bl = container.GetInstance<ServicioRequest>();
+                    bl.procesarRequest(requestData);
+                    //Console.WriteLine("Received: {0}", requestData);container.Resolve<TasksAgentService>()
+                    //_servicioRequest.procesarRequest();
+                    /*equest request = resques.GetRequest(requestData);*/
                     //resques.ProcessRequest(request, stream);
+                   
+                    
                     client.Close();
                 }
             }
@@ -56,7 +73,7 @@ namespace ServicioPong
             }
         }
 
-
+      
         private void StopServer()
         {
             listener.Stop();

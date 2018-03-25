@@ -18,3 +18,24 @@ C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.Entidades\bin\Debug\Newtonsoft.Json.dll
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Dominio.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\res\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\res\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\res\Dominio.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\res\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\res\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\res\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\res\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb

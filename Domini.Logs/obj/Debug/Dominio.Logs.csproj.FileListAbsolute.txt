@@ -30,3 +30,35 @@ C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Domini.L
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Domini.Logs\obj\Debug\Dominio.Logs.csproj.CoreCompileInputs.cache
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Domini.Logs\obj\Debug\Domini.Logs.dll
 C:\Users\globalbit\Documents\rr\Especializacion\entregable\ServicioPong\Domini.Logs\obj\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\res\Domini.Logs\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\res\Domini.Logs\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\res\Domini.Logs\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\res\Domini.Logs\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\res\Domini.Logs\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\res\Domini.Logs\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\res\Domini.Logs\obj\Debug\Dominio.Logs.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\res\Domini.Logs\obj\Debug\Dominio.Logs.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\res\Domini.Logs\obj\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\res\Domini.Logs\obj\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\obj\Debug\Dominio.Logs.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\obj\Debug\Dominio.Logs.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\obj\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\Visual Studio 2017\Backup Files\ServicioPong\ServicioPong\Domini.Logs\obj\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\NLog.config
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\Domini.Logs.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\Infraestructura.Framework.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\NLog.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\Infraestructura.Framework.pdb
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\bin\Debug\NLog.xml
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\obj\Debug\Dominio.Logs.csprojResolveAssemblyReference.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\obj\Debug\Dominio.Logs.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\obj\Debug\Domini.Logs.dll
+C:\Users\globalbit\Documents\GitHub\AppPing\ServicioPong\Domini.Logs\obj\Debug\Domini.Logs.pdb
